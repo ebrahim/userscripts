@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name          Persianizer
 // @description   Tries to convert all English digits and Arabic Kaf and Yeh letters into their Persian counterpart
-// @author        Mohammad Ebrahim Mohammadi Panah < ebrahim at mohammadi dot ir >
-// @namespace     http://ebrahim.ir/
+// @author        Ebrahim Mohammadi < ebrahim at mohammadi dot ir >
+// @namespace     http://code.ebrahim.ir/
 // @include       http://*.ir/*
 // @include       https://*.ir/*
 // @license       GPL

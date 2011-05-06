@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name          Fastladder Direction Changer
-// @namespace     http://fastladder.org/
+// @namespace     http://code.ebrahim.ir/
 // @description   Adds buttons in Fastladder to change direction of current feed
 // @include       http://fastladder.com/reader/*
 // @include       http://www.fastladder.com/reader/*
-// @author        Mohammad Ebrahim Mohammadi Panah < mebrahim at gmail dot com >
+// @author        Ebrahim Mohammadi < ebrahim at mohammadi dot ir >
 // @license       GPLv3
 // @version       0.1
 // ==/UserScript==
